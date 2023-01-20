@@ -1,4 +1,4 @@
-# Final Year Project Ideas
+# Final Year Project Ideas.
 
 > ### This project is excluded for Hacktoberfest. Please use this as a testing project.
 
